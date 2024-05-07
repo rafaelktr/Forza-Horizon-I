@@ -1,5 +1,11 @@
 /* Estilos para o corpo da página */
 body {
+    background-image: url('Foto.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
