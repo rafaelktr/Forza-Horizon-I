@@ -3,27 +3,6 @@ body {
     margin: 0;
     padding: 0;
 }
-
-header h1 {
-    margin: 0;
-}
-
-nav ul {
-    list-style-type: none;
-    padding: 0;
-}
-
-nav ul li {
-    display: inline;
-    margin-right: 20px;
-}
-
-nav ul li a {
-    color: #fff;
-    text-decoration: none;
-}
-
-/* Estilos para o rodapé */
 footer {
     background-color: #333;
     color: #ffffff;
@@ -36,6 +15,7 @@ footer {
 
 .Forza {
     width: 100%;
+
 }
 
 body{
