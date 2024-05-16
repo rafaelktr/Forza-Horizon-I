@@ -4,16 +4,6 @@ body {
     padding: 0;
 }
 
-header {
-    background-image: url("Foto.jpg"); 
-    background-size: 100% auto; /* Ajusta a largura da imagem para cobrir toda a largura do cabeçalho */
-    background-position: top right; /* Define a posição da imagem como superior direita */
-    background-repeat: no-repeat; /* Para evitar que a imagem se repita */
-    color: #fff; /* Cor do texto */
-    padding: 20px;
-    text-align: center; /* Alinhar o texto ao centro */
-}
-
 header h1 {
     margin: 0;
 }
