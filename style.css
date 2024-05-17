@@ -44,5 +44,6 @@ main{
 }
 
 .Corredor{
-    aling-left
+    text-align: left;
+    width: 50%;
 }
